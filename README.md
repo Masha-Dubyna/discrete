@@ -15,5 +15,5 @@ To run the program:
 To run the test:
 
 1. Change the directory to the one containing the test
-2. Compile: $ g++ --std=c++17 -o test_name.out class_name.cpp test_name.cpp
-3. Run: $ ./test_name.out
+2. Compile: $ g++ --std=c++17 -o test.out class_name.cpp tests.cpp
+3. Run: $ ./test.out
